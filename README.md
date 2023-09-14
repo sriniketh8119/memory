@@ -1,4 +1,4 @@
 # memory
-this is my first github repository
+This is my first github repository
 <br>
-author-sriniketh sharma
+Author-Sriniketh Sharma
